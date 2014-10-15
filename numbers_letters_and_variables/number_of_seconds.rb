@@ -21,7 +21,7 @@ puts "That means there are:"
 puts "  #{number_of_seconds_in_an_hour} seconds in an hour,"
 puts "  #{number_of_seconds_in_a_day} seconds in an day,"
 puts "  #{number_of_seconds_in_a_week} seconds in a week"
-puts "That means when you turn 20, you've been alive for #{number_of_seconds_in_20_years} seconds, "
+puts "That means when you turn 20, you've been alive for #{number_of_seconds_in_20_years} seconds,"
 puts "and if you make it to 100, you will have lived #{number_of_seconds_in_100_years} seconds. Make them"
 puts "count!"
 
