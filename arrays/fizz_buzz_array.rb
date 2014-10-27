@@ -1,4 +1,4 @@
-#!usr/bin/env ruby
+#!/usr/bin/env ruby
 
 (1..100).each do |numbers|
   fizz = (numbers % 3 == 0)
@@ -6,9 +6,8 @@
 
     if fizz && buzz
       puts "Fizzbuzz"
-    end
 
-    if fizz
+    elsif fizz
      puts "Fizz"
     elsif buzz
      puts "Buzz"
